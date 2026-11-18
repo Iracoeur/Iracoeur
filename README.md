@@ -11,7 +11,7 @@
 ## Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev)](https://skillicons.dev)
+![Languages](https://vercel.app)
 
 ### Frontend & Frameworks
-[![Frontend](https://skillicons.dev)](https://skillicons.dev)
+![Frontend](https://vercel.app)
