@@ -8,19 +8,14 @@ $ cat mission.txt
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-### Languages
-<p align="left">
-  <img src="./icons/bash.svg" alt="Bash" width="48" height="48"/>
-  <img src="./icons/python.svg" alt="Python" width="48" height="48"/>
-  <img src="./icons/js.svg" alt="JavaScript" width="48" height="48"/>
-  <img src="./icons/c.svg" alt="C" width="48" height="48"/>
-  <img src="./icons/ts.svg" alt="TypeScript" width="48" height="48"/>
-  <img src="./icons/php.svg" alt="PHP" width="48" height="48"/>
-</p>
+### 💻 Languages
+```text
+[ >_ Bash ]   [ 🐍 Python ]   [ 📜 JavaScript ]   [ ⚙️ C ]   [ 🔷 TypeScript ]   [ 🐘 PHP ]
+```
 
-### Frontend & Frameworks
-<p align="left">
-  <img src="./icons/react.svg" alt="React" width="48" height="48"/>
-</p>
+### 🧩 Frontend & Frameworks
+```text
+[ ⚛️ React ]
+```
