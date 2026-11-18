@@ -11,7 +11,16 @@
 ## Tech Stack
 
 ### Languages
-![Languages](https://vercel.app)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="Bash" width="48" height="48"/>
+  <img src="https://githubusercontent.com" alt="Python" width="48" height="48"/>
+  <img src="https://githubusercontent.com" alt="JavaScript" width="48" height="48"/>
+  <img src="https://githubusercontent.com" alt="C" width="48" height="48"/>
+  <img src="https://githubusercontent.com" alt="TypeScript" width="48" height="48"/>
+  <img src="https://githubusercontent.com" alt="PHP" width="48" height="48"/>
+</p>
 
 ### Frontend & Frameworks
-![Frontend](https://vercel.app)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="React" width="48" height="48"/>
+</p>
