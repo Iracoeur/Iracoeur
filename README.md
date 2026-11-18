@@ -11,7 +11,12 @@
 ## Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev)
+![Bash](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![C](https://shields.io)
+![TypeScript](https://shields.io)
+![PHP](https://shields.io)
 
 ### Frontend & Frameworks
-![Frontend](https://skillicons.dev)
+![React](https://shields.io)
