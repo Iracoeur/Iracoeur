@@ -1,8 +1,8 @@
 ```bash
-\$ whoami
+$ whoami
 > Iracoeur — Software Developer & Digital Builder
 
-\$ cat mission.txt
+$ cat mission.txt
 > Writing clean code, breaking things to see how they work, and building projects that matter.
 ```
 
