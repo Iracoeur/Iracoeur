@@ -9,23 +9,20 @@
 
 ```bash
 \$ whoami
-> Iracoeur — Software Developer & Digital Builder
+> Iracoeur — Software Developer
 
-\$ cat mission.txt
-> Writing clean code, breaking things to see how they work, and building projects that matter.
+\$ cat about.txt
+> Building reliable web applications, systems software, and automation tools.
 ```
-
-> [!TIP]
-> **Currently exploring:** Full-stack web architecture, systems programming in C, and Linux automation.
 
 ---
 
-### 🧠 Tech Stack Architecture
+### Tech Stack
 
 ```mermaid
 graph LR
-    A[⚡ Iracoeur] --> B[💻 Languages]
-    A --> C[🧩 Frontend]
+    A[Iracoeur] --> B[Languages]
+    A --> C[Frontend]
     
     B --> B1(Bash)
     B --> B2(Python)
@@ -43,15 +40,7 @@ graph LR
 
 ---
 
-### 📋 Developer Profile (`iracoeur.config.json`)
-
-```json
-{
-  "name": "Iracoeur",
-  "role": "Software Developer & Digital Builder",
-  "core_languages": ["Bash", "Python", "JavaScript", "TypeScript", "C", "PHP"],
-  "frameworks": ["React"],
-  "focus": ["Clean Architecture", "Automation", "Problem Solving"],
-  "open_to_collaborate": true
-}
-```
+### Focus Areas
+* **Web Development:** Full-stack applications with **React**, **TypeScript**, **JavaScript**, and **PHP**
+* **Automation & Scripting:** Command-line tools and workflows in **Bash** and **Python**
+* **Systems Programming:** Performance-critical code in **C**
