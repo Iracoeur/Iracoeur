@@ -12,15 +12,15 @@
 
 ### Languages
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Bash" width="48" height="48"/>
-  <img src="https://githubusercontent.com" alt="Python" width="48" height="48"/>
-  <img src="https://githubusercontent.com" alt="JavaScript" width="48" height="48"/>
-  <img src="https://githubusercontent.com" alt="C" width="48" height="48"/>
-  <img src="https://githubusercontent.com" alt="TypeScript" width="48" height="48"/>
-  <img src="https://githubusercontent.com" alt="PHP" width="48" height="48"/>
+  <img src="./bash.svg" alt="Bash" width="48" height="48"/>
+  <img src="./python.svg" alt="Python" width="48" height="48"/>
+  <img src="./javascript.svg" alt="JavaScript" width="48" height="48"/>
+  <img src="./c.svg" alt="C" width="48" height="48"/>
+  <img src="./typescript.svg" alt="TypeScript" width="48" height="48"/>
+  <img src="./php.svg" alt="PHP" width="48" height="48"/>
 </p>
 
 ### Frontend & Frameworks
 <p align="left">
-  <img src="https://githubusercontent.com" alt="React" width="48" height="48"/>
+  <img src="./react.svg" alt="React" width="48" height="48"/>
 </p>
