@@ -1,16 +1,17 @@
-## Hi there 👋
+```bash
+\$ whoami
+> Iracoeur — Software Developer & Digital Builder
 
-<!--
-**Iracoeur/Iracoeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\$ cat mission.txt
+> Writing clean code, breaking things to see how they work, and building projects that matter.
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+[![Languages](https://skillicons.dev)](https://skillicons.dev)
+
+### Frontend & Frameworks
+[![Frontend](https://skillicons.dev)](https://skillicons.dev)
